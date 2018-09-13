@@ -13,7 +13,7 @@ ms.devlang: dotnet
 ms.topic: troubleshooting
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 8/24/2018
+ms.date: 9/12/2018
 ms.author: pkc
 
 ---
@@ -30,6 +30,9 @@ Learn more about:
  
 - [Support from Microsoft for Azure](https://azure.microsoft.com/support/plans/?b=16.44).
 - [Microsoft premier support](https://support.microsoft.com/en-us/premier).
+
+> [!WARNING]
+> We support a Reliability tier of Bronze to allow you to run test workloads only and so if you hit issues with such a cluster, the Microsoft support team would help you in mitigating the issue, but will not perform a Root Cause Analysis. 
 
 <a id="getlivesitesupportonprem"></a>
 
